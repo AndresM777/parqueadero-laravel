@@ -1,8 +1,8 @@
 # Tarea - Desarrollo en Plataformas
 
-**Estudiante:** (Tu Nombre Aquí)
+**Estudiante:** Rodrigo Lucano
 **Fecha:** 17/12/2025
-**Paralelo:** (Tu Paralelo)
+**Paralelo:** 2
 
 ## Mis Decisiones de Diseño
 
