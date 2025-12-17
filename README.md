@@ -30,6 +30,6 @@ Para mantener la consistencia de datos y facilitar el uso en móviles, se limita
 **Respuesta:** Sí (Eliminación física / Hard Delete).
 
 **Razón:**
-Se optó por eliminar el registro completamente de la base de datos cuando el vehículo sale, para mantener la simplicidad del sistema solicitada por el cliente ("Yo debería poder borrar ese registro") y no llenar la base de datos con históricos en esta primera versión.
+Se optó por eliminar el registro completamente de la base de datos cuando el vehículo sale.
 
 http://parqueadero.test/vehiculos
